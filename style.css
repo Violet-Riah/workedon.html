@@ -1,0 +1,44 @@
+.nav2{
+    background-color: rgb(243, 193, 176);
+    flex-direction: column;
+    font-size: larger;
+    font-style: inherit;
+    
+}
+
+.nav{
+    
+    background-color: rgb(227, 243, 158);
+    border: solid;
+    gap: 50%;
+    size: 67%;
+    font-size: xx-large;
+    color: white;
+}
+.box1{
+    display: flex;
+    
+}
+.box2{
+    display: flex;
+}
+.box3{
+    display: flex;
+    gap: 9%;
+}
+.text3{
+    font-size: xx-large;
+    font-style: oblique;
+    color: black;
+}
+.text2{
+    font-size: larger;
+    color: black;
+    
+}
+.box7{
+    display: flex;
+}
+.nav3{
+    display: flex;
+}
