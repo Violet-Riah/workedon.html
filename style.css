@@ -1,9 +1,10 @@
 .nav2{
-    background-color: rgb(243, 193, 176);
+    background-color: rgb(228, 209, 203);
     flex-direction: column;
-    font-size: larger;
+    font-size: xx-large;
     font-style: inherit;
     border: solid;
+    text-align: center;
     
 }
 
@@ -18,10 +19,12 @@
 } */
 .box1{
     display: flex;
+    text-align: center;
     
 }
 .box2{
     display: flex;
+    
 }
 .box3{
     display: flex;
@@ -39,12 +42,13 @@
 }
 .box7{
     display: flex;
-    margin: 100px;
+    text-align: center;
     /* display: grid;
     grid-template-columns: repeat();O*/
 } 
 .nav3{
     display: flex;
+    text-align: center;
 
 }
 .words{
@@ -57,4 +61,9 @@
 }
 .book{
     display: flex;
+}
+.button{
+    background-color: coral;
+    color: black;
+    font-size: x-large;
 }
